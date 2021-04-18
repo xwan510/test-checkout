@@ -1,0 +1,25 @@
+{
+  "name": "dius_shopping",
+  "version": "1.0.0",
+  "description": "test shoppig calculation project",
+  "main": "index.js",
+  "type": "module",
+  "engines": {
+    "node": ">=12.0.0",
+    "npm": ">=6.0.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Edison Wang",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.13.15",
+    "@babel/node": "^7.13.13",
+    "@babel/preset-env": "^7.13.15",
+    "eslint": "^7.24.0"
+  },
+  "dependencies": {
+    "mocha": "^8.3.2"
+  }
+}
